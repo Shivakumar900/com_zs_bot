@@ -1,1 +1,2 @@
-worker: python com_zs_bot.py
+worker: com_zs_combo.py
+
